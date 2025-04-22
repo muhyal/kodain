@@ -2,7 +2,7 @@
 
 <!-- Logo Yer Tutucusu -->
 <p align="center">
-  <img src="kodain/Assets.xcassets/AppIcon.appiconset/1024.png" alt="Kodain Logo" width="200"/>
+  <img src="kodain/Resources/Assets.xcassets/AppIcon.appiconset/1024.png" alt="Kodain Logo" width="200"/>
   <!-- TODO: Yukarıdaki `src` yolunu logo dosyanızın yoluyla değiştirin (örn: Resources/logo.png) -->
 </p>
 
